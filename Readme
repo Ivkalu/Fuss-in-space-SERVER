@@ -4,5 +4,3 @@ eval "$(/home/rangoiv/miniconda3/bin/conda shell.bash hook)"
 Nakon toga:
 	python Server.py
 
-git token:
-	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
