@@ -3,6 +3,3 @@ eval "$(/home/rangoiv/miniconda3/bin/conda shell.bash hook)"
 
 Nakon toga:
 	python Server.py
-
-novapromjena test
-josjedna promjena
